@@ -1,0 +1,23 @@
+{
+  "name": "express-test",
+  "version": "1.0.0",
+  "description": "testing express js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "billy kang",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "grunt": "^1.0.1",
+    "grunt-cafe-mocha": "^0.1.13",
+    "grunt-contrib-jshint": "^1.1.0",
+    "mocha": "^3.2.0",
+    "zombie": "^5.0.5"
+  }
+}
